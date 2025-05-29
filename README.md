@@ -6,4 +6,7 @@
 - Add NavBar component to App.jsx
 - Create a NavBar.jsx separate Component file 
 - Installed react router dom
+- Create BrowserRouter > Routes > Route=/ Body > RouteChildren
+- Create an Outlet in your Body Component
+
 

@@ -8,5 +8,6 @@
 - Installed react router dom
 - Create BrowserRouter > Routes > Route=/ Body > RouteChildren
 - Create an Outlet in your Body Component
+- Create footer
 
 
